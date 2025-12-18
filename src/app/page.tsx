@@ -2,9 +2,9 @@ import React from "react";
 import BookingForm from "@/components/BookingForm";
 
 const demoItems = [
-  { title: "Refund automation", videoId: "b4343728c542483380b0f117ba153180" },
-  { title: "Agentic support automation", videoId: "b4343728c542483380b0f117ba153180" },
-  { title: "Context-aware product recommendations", videoId: "b4343728c542483380b0f117ba153180" },
+  { title: "Refund automation", videoId: "4e25923e6b7c4627852247b3b3dee07f" },
+  { title: "Agentic support automation", videoId: "8a512cc00ed0432d9ec62a4de3c8f0c2" },
+  { title: "Context-aware product recommendations", videoId: "848ca6042cad4deea7cf01818b7acc0e" },
 ] as const;
 
 export default function AICCommerceOSLanding() {
